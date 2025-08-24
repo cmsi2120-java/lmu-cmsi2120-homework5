@@ -11,7 +11,6 @@
 .mtj.tmp/
 
 # Package Files #
-*.jar
 *.war
 *.nar
 *.ear
@@ -50,7 +49,6 @@ build/
 build/
 dist/
 *.class
-*.jar
 
 # =========================
 # IDEs
